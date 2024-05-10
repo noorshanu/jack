@@ -54,6 +54,12 @@ textarea {
   font-size: inherit;
   line-height: inherit;
 }
+.contract{
+  font-family: Nunito;
+  font-weight: 600;
+  font-size: medium;
+  
+}
 button {
   cursor: pointer;
   color: inherit;
